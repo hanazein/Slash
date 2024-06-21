@@ -5,16 +5,13 @@
 
 A new Flutter project.
 
-## Getting Started
+1-Clone the repository:
+git clone https://github.com/hanazein/Slash.git
+cd Slash
 
-This project is a starting point for a Flutter application.
+2-Install Flutter dependencies:
+flutter oub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 520410b (Initial commit)
+3-Run the app:
+for phone (flutter run)
+for web(flutter run -d chrome)
